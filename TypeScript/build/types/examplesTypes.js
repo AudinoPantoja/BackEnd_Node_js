@@ -36,13 +36,13 @@ coins.push({
     name: 'dolar',
     code: '%'
 });
-let books = [
+let books1 = [
     {
         id: 1,
         name: 'itp'
     }
 ];
-books = [1, 2, 3, 4, 5];
+books1 = [1, 2, 3, 4, 5];
 let dateOne;
 dateOne = ['uno', 1, true];
 var color;

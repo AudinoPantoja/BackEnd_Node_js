@@ -1,5 +1,4 @@
 //let para modificar el data,const para 
-//
 const userName: string = 'Peter';
 const age = 30;
 const isAdmin: any = 'New Island Hotel';
@@ -45,13 +44,13 @@ coins.push({
   code:'%'
 })
 
-let books : any[] =[
+let books1 : any[] =[
   {
     id:1,
     name: 'itp'
   }
 ]
-books = [1,2,3,4,5]
+books1 = [1,2,3,4,5]
 
 //tuple
 let dateOne : [string, number, boolean];
